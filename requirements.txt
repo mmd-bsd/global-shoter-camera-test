@@ -1,0 +1,5 @@
+opencv-python>=4.8
+numpy>=1.24
+pillow>=10.0
+pygrabber>=0.2
+comtypes>=1.4
